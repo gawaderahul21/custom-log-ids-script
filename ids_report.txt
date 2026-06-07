@@ -1,0 +1,15 @@
+============================================================
+   CUSTOM IDS REPORT
+   Generated: 2026-06-07 00:32:45
+   Log file : auth.log
+============================================================
+
+Total log lines    : 1283
+Failed login events: 274
+Unique attacker IPs: 1
+
+ALERTS:
+------------------------------------------------------------
+[CRITICAL] IP: 10.0.2.15 | Attempts: 274 | Users targeted: testuser, vboxuser
+
+SUMMARY: CRITICAL=1 HIGH=0 MEDIUM=0 LOW=0
